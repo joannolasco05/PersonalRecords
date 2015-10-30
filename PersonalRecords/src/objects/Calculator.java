@@ -1,6 +1,11 @@
 package objects;
 
 public class Calculator {
-	//TODO: Implements Calc. Operations.
+	public int addNumbers(int a, int b){
+		return a + b;
+	}
 	
+	public int subsNumbers(int a, int b){
+		return a - b;
+	}
 }
