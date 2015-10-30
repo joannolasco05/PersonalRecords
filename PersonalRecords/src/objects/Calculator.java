@@ -13,6 +13,6 @@ public class Calculator {
 	}
 	
 	public static int multNumbers(int a, int b){
-		return 0;
+		return a * b;
 	}
 }
